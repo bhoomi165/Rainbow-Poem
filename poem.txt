@@ -3,5 +3,6 @@ Purple
 Pink
 Blue
 Green
+First changes doing now.
 Yellow
 These are the color of Rainbow.
